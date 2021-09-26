@@ -5,6 +5,7 @@ In this coding activity, we work with the DOM to
 add animation to Map.
 This is a simple program that illustrates Bus Stops 
 between Harvard and MIT.
+click on the show stops button to add animation and view their location
 
 To view the gihub page follow the link: https://blaiseishimwe.github.io/real-time-bus-tracker/
 
