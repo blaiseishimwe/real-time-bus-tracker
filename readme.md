@@ -6,8 +6,7 @@ add animation to Map.
 This is a simple program that illustrates Bus Stops 
 between Harvard and MIT.
 
-To view the page load the index.html file in your browser,
-and click on the "Show stops between MIT and Harvard" button.
+To view the gihub page follow the link: https://blaiseishimwe.github.io/real-time-bus-tracker/
 
 In the future, I want to add the time when the bus should be 
 at each bus stop.
