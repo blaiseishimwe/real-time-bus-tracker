@@ -7,7 +7,7 @@ This is a simple program that illustrates Bus Stops
 between Harvard and MIT.
 click on the show stops button to add animation and view their location
 
-To view the gihub page follow the link: https://blaiseishimwe.github.io/real-time-bus-tracker/
+To run the project, follow the link: https://blaiseishimwe.github.io/real-time-bus-tracker/
 
 In the future, I want to add the time when the bus should be 
 at each bus stop.
